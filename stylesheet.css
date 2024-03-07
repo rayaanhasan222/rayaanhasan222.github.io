@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.content-section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #e9e9e9;
+}
+
+a {
+    color: #0077cc;
+}
+
+a:hover {
+    color: #004499;
+}
+
+img {
+    width: 100%; /* Example box model property change */
+    padding: 10px; /* Another box model property change */
+}
